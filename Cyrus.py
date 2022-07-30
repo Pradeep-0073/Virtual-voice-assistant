@@ -9,13 +9,13 @@ from logging.config import listen
 from operator import truediv
 import re
 import pyttsx3 # pip install pyttsx3
-import datetime
-import speech_recognition as sr #pi
-import pywhatkit 
-import wikipedia
-import pyjokes
-import webbrowser
-import os
+import datetime #time and date updating
+import speech_recognition as sr #recognition of our speech
+import pywhatkit #for well defined functions
+import wikipedia  #for the searching news in wikipedia
+import pyjokes #for telling a programing jokes
+import webbrowser #for using web activities
+import os #for using OS of the system
  
  
  
