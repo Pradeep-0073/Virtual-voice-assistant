@@ -22,4 +22,5 @@ Machine learning refers to the subset of Artificial Intelligence where programs 
 * learn about the Persons in wikipedia
 * jolly talk
 # Why and When to use Voice Assistants
-There are many use cases for using a voice assistant in todays’ world. For example, when your hands are full and you are unable to use a touch screen or keyboard, or when you are driving Let’s say you are driving and you need to change your music, you could just ask a voice assistant, “play my driving playlist”. This leads to a safer driving experience, and helps avoid the risk of distracted driving.
+There are many use cases for using a voice assistant in todays’ world. For example, when your hands are full and you are unable to use a touch screen or keyboard, or when you are driving Let’s say you are driving and you need to change your music, you could just ask a voice assistant, “play my driving playlist”. This leads to a safer driving experience, and helps avoid the risk of distracted driving and Many things
+
